@@ -103,20 +103,6 @@ A Community List made for the game "Geometry Dash" for Filipino players. Collabe
 
 ---
 
-<!--════════════════ GITHUB STATS ════════════════-->
-
-### `$ git log --stat`
-
-<div align="center">
-
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=neilaman&show_icons=true&theme=gruvbox&hide_border=true&count_private=true)](https://github.com/neilaman)
-
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=neilaman&layout=compact&theme=gruvbox&hide_border=true)](https://github.com/neilaman)
-
-</div>
-
----
-
 <!--════════════════ FOOTER ════════════════-->
 
 <div align="center">
