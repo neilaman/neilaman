@@ -111,6 +111,6 @@ A Community List made for the game "Geometry Dash" for Filipino players. Collabe
 [ always building · always modding · always :3 ]
 ```
 
-*Typeset with care · Last updated May 2026*
+*Portfolio for World Citi Colleges · Last updated May 2026*
 
 </div>
