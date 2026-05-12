@@ -28,8 +28,8 @@
 
 ### `$ whoami`
 
-> Game Modder | Web Developer
 > I, Neil, existed to code. That's all.
+> \nGame Modder | Web Developer
 > :3
 
 </td>
