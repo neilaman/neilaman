@@ -83,12 +83,12 @@
 <tr>
 <td width="50%" valign="top">
 
-**[01] [project-name](https://github.com/neilaman/project-name)**
-`Language · Type`
+**[01] [Geometry Dash PH - Demon List](https://github.com/silverraaa/gdph-demon-list-revamp)**
+`Language · Svelte / Javascript`
 
-One sentence describing what this does and why it matters.
+A Community List made for the game "Geometry Dash" for Filipino players. Collabed with [TyronVT](https://github.com/TyronVT)
 
-⭐ `0` · 🍴 `0`
+⭐ `3` · 🍴 `1`
 
 </td>
 <td width="50%" valign="top">
