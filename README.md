@@ -29,8 +29,8 @@
 ### `$ whoami`
 
 > I, Neil, existed to code. That's all.
-> \nGame Modder | Web Developer
-> :3
+
+> Game Modder | Web Developer | :3
 
 </td>
 <td width="45%" valign="top">
