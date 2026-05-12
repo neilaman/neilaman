@@ -3,18 +3,19 @@
 <!--════════════════ HEADER ════════════════-->
 
 ```
-                                       ╔══════════════════════════════════════════════════════╗
-                                       ║                                                      ║
-                                       ║           [ NEIL ALBERT A. MANORINA ]                ║
-                                       ║                     — ✦ —                            ║
-                                       ║        :3 :3 :3 :3 :3  :3 :3  :3 :3 :3 :3            ║
-                                       ║                                                      ║
-                                       ╚══════════════════════════════════════════════════════╝
+╔══════════════════════════════════════════════════════╗
+║                                                      ║
+║           NEIL ALBERT A. MANORINA                    ║
+║                    — ✦ —                             ║
+║          :3 :3 :3 :3 :3 :3 :3 :3 :3 :3              ║
+║                                                      ║
+╚══════════════════════════════════════════════════════╝
 ```
 
-📍 **[Teresa, Rizal]** &nbsp;|&nbsp; ✉ [neilpako07@email.com](mailto:your@email.com)
+📍 **Teresa, Rizal** &nbsp;|&nbsp; ✉ [neilpako07@gmail.com](mailto:neilpako07@gmail.com)
 
 [![GitHub](https://img.shields.io/badge/github-%231DA1F2.svg?style=flat&logo=github&logoColor=white&color=2c2416&labelColor=1a1410)](https://github.com/neilaman)
+
 </div>
 
 ---
@@ -28,7 +29,7 @@
 ### `$ whoami`
 
 > Game Modder | Web Developer
-> I, Neil existed to code, that's all.
+> I, Neil, existed to code. That's all.
 > :3
 
 </td>
@@ -51,19 +52,25 @@
 
 ---
 
+<!--════════════════ STACK ════════════════-->
+
 ### `$ cat stack.txt`
 
 **Languages:**
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![HTML](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=c%2B%2B&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-239120?style=flat&logo=csharp&logoColor=white)
 
 **Tools & Infra:**
 
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat&logo=visualstudiocode&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat&logo=postgresql&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
 
 ---
@@ -76,8 +83,8 @@
 <tr>
 <td width="50%" valign="top">
 
-**[01] [project-one](https://github.com/yourusername/project-one)**
-`Python · CLI`
+**[01] [project-name](https://github.com/neilaman/project-name)**
+`Language · Type`
 
 One sentence describing what this does and why it matters.
 
@@ -86,71 +93,25 @@ One sentence describing what this does and why it matters.
 </td>
 <td width="50%" valign="top">
 
-**[02] [project-two](https://github.com/yourusername/project-two)**
-`JavaScript · Web`
-
-One sentence describing what this does and why it matters.
-
-⭐ `0` · 🍴 `0`
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-**[03] [project-three](https://github.com/yourusername/project-three)**
-`Rust · Systems`
-
-One sentence describing what this does and why it matters.
-
-⭐ `0` · 🍴 `0`
-
-</td>
-<td width="50%" valign="top">
-
-**[04] [project-four](https://github.com/yourusername/project-four)**
-`Go · Backend`
-
-One sentence describing what this does and why it matters.
-
-⭐ `0` · 🍴 `0`
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-**[05] [project-five](https://github.com/yourusername/project-five)**
-`TypeScript · API`
-
-One sentence describing what this does and why it matters.
-
-⭐ `0` · 🍴 `0`
-
-</td>
-<td width="50%" valign="top" align="center">
-
-<br>
-
-*→ [see all repositories](https://github.com/yourusername?tab=repositories)*
+<!-- Copy the block from [01] above and paste it here for your next project -->
 
 </td>
 </tr>
 </table>
 
+*→ [see all repositories](https://github.com/neilaman?tab=repositories)*
+
 ---
 
-<!--════════════════ GITHUB STATS (optional, powered by github-readme-stats) ════════════════-->
+<!--════════════════ GITHUB STATS ════════════════-->
 
 ### `$ git log --stat`
 
 <div align="center">
 
-<!-- Replace 'yourusername' with your actual GitHub username in the URLs below -->
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=neilaman&show_icons=true&theme=gruvbox&hide_border=true&count_private=true)](https://github.com/neilaman)
 
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=gruvbox&hide_border=true&count_private=true)](https://github.com/yourusername)
-
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=gruvbox&hide_border=true)](https://github.com/yourusername)
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=neilaman&layout=compact&theme=gruvbox&hide_border=true)](https://github.com/neilaman)
 
 </div>
 
@@ -161,9 +122,9 @@ One sentence describing what this does and why it matters.
 <div align="center">
 
 ```
-[ available for hire · open to collabs · always building ]
+[ always building · always modding · always :3 ]
 ```
 
-*Typeset with care · Last updated [Month Year]*
+*Typeset with care · Last updated May 2026*
 
 </div>
